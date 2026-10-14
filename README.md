@@ -1,11 +1,4 @@
-# Satellite Communication Attack Simulation — Setup Log
-
-**Project:** Simulating and Detecting Cyber Attacks on Satellite Communication Links: 
-A SPARTA and MITRE ATT&CK-Based Approach
-
-**Student:** Mahfujul Islam (25032584)  
-**Module:** LD7028 — MSc Cyber Security, Northumbria University
-
+# Satellite Communication Attack Simulation — Setup 
 ## Overview
 This repository tracks the setup, configuration, and progress of a satellite 
 simulation testbed using **NOS3** (NASA Operational Simulator for Small Satellites), 
